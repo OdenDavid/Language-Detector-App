@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+opencv-python-headless==4.1.2.30
+torch
+torchvision
+easyocr
